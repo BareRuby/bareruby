@@ -2,7 +2,7 @@
 
 require_relative "bareruby/version"
 
-module Bareruby
+module BareRuby
   class Error < StandardError; end
   # Your code goes here...
 end
