@@ -4,7 +4,7 @@ require_relative "lib/bareruby/compiler/version"
 
 Gem::Specification.new do |spec|
   spec.name = "bareruby-compiler"
-  spec.version = Bareruby::Compiler::VERSION
+  spec.version = BareRuby::Compiler::VERSION
   spec.authors = ["uproad"]
   spec.email = ["7349115+uproad@users.noreply.github.com"]
 
