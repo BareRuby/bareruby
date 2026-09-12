@@ -1,6 +1,6 @@
 # bareruby
 
-The user-facing entry point of BareRuby and the stages that run after compilation.
+The BareRuby entry point, post-compilation stages, and host binding, machine, and adapters.
 
 ## Status
 

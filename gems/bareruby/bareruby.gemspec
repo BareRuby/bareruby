@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["uproad"]
   spec.email = ["7349115+uproad@users.noreply.github.com"]
 
-  spec.summary = "The user-facing entry point of BareRuby and the stages that run after compilation."
-  spec.description = "The user-facing entry point of BareRuby and the stages that run after compilation. " \
+  spec.summary = "The BareRuby entry point, post-compilation stages, and host binding, machine, and adapters."
+  spec.description = "The BareRuby entry point, post-compilation stages, and host binding, machine, and adapters. " \
                      "This release carries the name and the distribution skeleton only; " \
                      "it implements no functionality."
   spec.homepage = "https://github.com/uproad/bareruby"
