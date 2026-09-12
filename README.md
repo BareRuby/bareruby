@@ -6,7 +6,7 @@ BareRuby is an ahead-of-time Ruby compiler and toolchain for microcontrollers.
 
 | Gem | Role |
 | --- | --- |
-| [`bareruby`](gems/bareruby) | The user-facing entry point of BareRuby and the stages that run after compilation. |
+| [`bareruby`](gems/bareruby) | The BareRuby entry point, post-compilation stages, and host binding, machine, and adapters. |
 | [`bareruby-compiler`](gems/bareruby-compiler) | Language processing and code generation for BareRuby. |
 
 ## Status
